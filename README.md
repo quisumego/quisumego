@@ -8,7 +8,7 @@
 
 <h1>
   <samp>
-    Hello World, it's <b>Debis</b>.
+    Hello World, it's <b>quisumego</b>.
   </samp>
 </h1>
 
@@ -19,14 +19,14 @@
 </p>
 
 <p>
-  <a href="https://github.com/DebisLimbuHub">
+  <a href="https://github.com/quisumego">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=991B1B&center=true&vCenter=true&width=700&lines=Cybersecurity+analysis+%7C+Threat+hunting+%7C+Detection+engineering;Python+automation+%7C+Log+analysis+%7C+Runbooks;Offensive+security+%7C+Purple+teaming+%7C+Identity+defence;Suricata+%7C+DNS+tunnel+detection+%7C+Research-driven+projects" alt="Typing SVG" />
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=DebisLimbuHub&amp;label=Views&amp;color=7C3AED&amp;style=flat" alt="profile views" />
-  <a href="https://github.com/DebisLimbuHub?tab=repositories">
+  <img src="https://komarev.com/ghpvc/?username=quisumego&amp;label=Views&amp;color=7C3AED&amp;style=flat" alt="profile views" />
+  <a href="https://github.com/quisumego?tab=repositories">
     <img src="https://img.shields.io/badge/Role-Cybersecurity%20Analyst-7C3AED?style=flat" alt="cybersecurity analyst role" />
   </a>
   <img src="https://img.shields.io/badge/Location-UK-7C3AED?style=flat" alt="location" />
