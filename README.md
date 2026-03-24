@@ -46,8 +46,8 @@ I build cybersecurity projects around offensive security, detection engineering 
 ## Focus Areas
 
 - `Detection engineering`: Microsoft Sentinel, KQL, Microsoft Defender, LimaCharlie, Suricata and signal tuning
-- `Security operations`: triage workflows, investigation runbooks, telemetry requirements and evidence-driven analysis
-- `Offensive security`: authorised reconnaissance, attack simulation and purple team validation
+- `Security operations`: Triage workflows, investigation runbooks, telemetry requirements and evidence-driven analysis
+- `Offensive security`: Authorised reconnaissance, attack simulation and purple team validation
 - `Traffic analysis`: DNS and HTTP fundamentals, Wireshark, tcpdump, IDS and IPS workflows
 - `Build stack`: Python, TypeScript, React, Tauri, Rust, Bash, PowerShell and Linux
 
@@ -58,9 +58,3 @@ I build cybersecurity projects around offensive security, detection engineering 
 - Designed identity-focused detection exercises around Okta-style event pipelines and realistic adversary simulation
 - Produced threat modelling, monitoring requirements and analyst guidance for authentication and account abuse scenarios
 
-## Selected Repositories
-
-- [SpectreIntel](https://github.com/quisumego/SpectreIntel) - OSINT for cybersecurity professionals
-- [DNS-Tunneling-Detection](https://github.com/quisumego/DNS-Tunneling-Detection) - Suricata DNS tunneling detection project
-- [Port-Scanner](https://github.com/quisumego/Port-Scanner) - Automated Nmap reconnaissance in Python
-- [Agent-Office](https://github.com/quisumego/Agent-Office) - Agent workspace and tooling experiments
